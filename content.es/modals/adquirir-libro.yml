@@ -1,0 +1,11 @@
+id: adquirir-libro
+title: Adquirir Libro
+# media:
+#   src: aymar-celdran-seminario.jpg
+#   inset: true
+size: xs
+description: |
+  [btn icon-credit-card Tarjeta](https://buy.stripe.com/7sIcOBdXF4ieakgdR2       "nofollow")
+  [btn icon-paypal      Paypal ](https://www.paypal.com/paypalme/aymarceldran/17 "nofollow")
+more:
+  align: center

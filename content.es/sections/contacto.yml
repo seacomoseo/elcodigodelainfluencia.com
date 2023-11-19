@@ -1,0 +1,50 @@
+title: Contacto
+subtitle: Haz tu consulta
+button: link
+size: sm
+more:
+  divider: curve-side-fill
+rows:
+- type: contact
+  data:
+  - type: schedule
+    days: Lunes a Viernes
+    hours: 9:00 - 20:00
+  - type: br
+  - type: phone
+    label: +34 634 337 096
+  - type: whatsapp
+    label: +34 634 337 096
+  - type: mail
+    label: info@elcodigodelainfluencia.com
+    full: true
+    button: light
+  - type: address
+    active: false
+    name: Adelayn
+    streetAddress: Av. de los Pinos, 7
+    postalCode: 30009
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.1395126,37.9974443]}'
+  form:
+    fill_inputs: false
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: tel
+      name: Teléfono
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Mensaje
+      required: true
+  map:
+    active: false
+    link: https://goo.gl/maps/HpiiVvEUvX4ZkPAk8
+    iframe: ''
+    flip_x: false
+    divider: ''

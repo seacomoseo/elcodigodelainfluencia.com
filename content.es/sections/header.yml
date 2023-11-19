@@ -1,0 +1,28 @@
+anchor: Emprendimiento Consciente
+bg: influencia.jpg
+icon: ''
+more:
+  full_screen: true
+  opacity: 30
+rows:
+- type: columns
+  design:
+    num: 2
+    align: left
+    uppercase: true
+    underline: true
+    hide_shadow: true
+  items:
+  - description: |
+      Como emprendedor tienes una **<i class="sign">misión</i>:** **conectar con la tuya**
+      {.h1 .uppercase}
+
+      Guía para emprendedores, profesionales y empresas, en la creación de negocios conscientes que generen un impacto positivo y significativo en el mundo.
+
+      [btn Adquiere el libro (17€)](#adquirir-libro)
+    # Un viaje simple de verdad que te permitirá multiplicar el impacto que hoy estás causando en el planeta con tu emprendimiento.
+    # [btn icon-play Escucha al autor](#principal)
+  - image: el-codigo-de-la-influencia-portada.svg
+    more:
+      align: center
+      image_hover: el-codigo-de-la-influencia-contraportada.svg

@@ -1,0 +1,65 @@
+title: ¿Para quién?
+subtitle: Para emprendedores orientados al bien común que buscan, a través de sus negocios, causar un impacto positivo y significativo en el mundo.
+more:
+  menu: Público
+rows:
+
+- type: columns
+  design:
+    num: 3
+    uppercase: true
+    underline: true
+  items:
+  - title: Emprendedores conscientes
+    icon: hands-holding-heart
+    description: |
+      Aquellos que están empezando o ya tienen un negocio y buscan integrar valores éticos, sociales y ambientales en su modelo de negocio.
+  - title: Profesionales en transición
+    icon: shuffle
+    description: |
+      Personas que buscan cambiar de carrera o reorientar su enfoque profesional hacia algo más significativo y alineado con sus valores y pasiones.
+  - title: Líderes y gerentes
+    icon: crown
+    description: |
+      Aquellos que deseen implementar prácticas conscientes en sus equipos y organizaciones, fomentando un ambiente de trabajo ético y sostenible.
+  - title: Consultores y coaches
+    icon: compass
+    description: |
+      Profesionales que desean mejorar sus habilidades para guiar a otros en la búsqueda de sus propósitos y en la creación de negocios conscientes.
+  - title: Activistas y defensores de causas
+    icon: hand-fist
+
+    description: |
+      Individuos que están trabajando en causas sociales y ambientales y que desean mejorar su capacidad de influencia y comunicación para aumentar el impacto de sus esfuerzos.
+- type: columns
+  items:
+  - description: |
+      <div id="etapas" class="section__header align-center" data-showup>
+        <div class="section__title section__title--iconbottom">
+          <h2 class="uppercase">
+            <a href="#etapas">Etapas</a>
+          </h2>
+          <div class="section__icon">icon-icon-alt</div>
+        </div>
+        <p class="subtitle">Para emprendedores en diferentes etapas</p>
+      </div>
+
+- type: steps
+  design:
+    icon_size: 6
+    uppercase: true
+    underline: true
+    border: dark
+  items:
+  - title: Conceptualización
+    icon: lightbulb-on
+    description: |
+      En esta etapa, los emprendedores están generando ideas para sus negocios y definiendo su propósito. "El Código de la Influencia" puede ayudar a identificar la misión y los valores fundamentales de un proyecto, así como a alinearlos con causas significativas.
+  - title: Lanzamiento
+    icon: rocket-launch
+    description: |
+      Cuando un emprendedor está iniciando su negocio y estableciendo su marca en el mercado, "El Código de la Influencia" puede ser clave para desarrollar una estrategia de marketing efectiva basada en valores y causas, lo que permitirá atraer a clientes conscientes y generar un impacto inicial sólido.
+  - title: Crecimiento y consolidación
+    icon: tree-deciduous
+    description: |
+      Para aquellos emprendedores que buscan expandir su negocio y fortalecer su presencia en el mercado, "El Código de la Influencia" ofrece estrategias y consejos para mantener la autenticidad, mejorar la comunicación con los clientes y adaptarse a las tendencias emergentes en el marketing y el comportamiento del consumidor.

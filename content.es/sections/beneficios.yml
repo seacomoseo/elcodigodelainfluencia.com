@@ -1,0 +1,39 @@
+title: Beneficios
+subtitle: ¿En qué puede ayudarme esta obra?
+size: lg
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+  items:
+  - order: 2
+    description: |
+      - icon-circle-check Captar más clientes y de mayor calidad.
+      - icon-circle-check Afianzar tu público objetivo.
+      - icon-circle-check Saber dónde poner el foco y qué hacer en tu día a día.
+      - icon-circle-check Concebir de un modelo de negocio alineado contigo mismo.
+      - icon-circle-check Generar mayor sentimiento de pertenencia con los clientes.
+      - icon-circle-check Tomar decisiones más inteligentes y con mayor velocidad.
+      - icon-circle-check Construir tu escalera de productos y/o servicios.
+      - icon-circle-check Encontrar un mensaje que te ayude a comunicar tu proyecto.
+      - icon-circle-check Construir equipos conscientes de trabajo.
+      - icon-circle-check Aumentar la percepción de valor de cara a los clientes.
+      - icon-circle-check Propiciar mayor cierre de ventas y de mayor valor económico.
+      - icon-circle-check Elevar el nivel de confianza y seguridad en el emprendedor.
+      - icon-circle-check Mejorar tu imagen corporativa o de marca.
+      - icon-circle-check Tener una visión clara que alinee a los integrantes de un equipo.
+      - icon-circle-check Aumentar la confianza de cara a quienes te conocen y quienes no.
+      - icon-circle-check Conectar aún más con tu proyecto.
+      - icon-circle-check Despetar dosis de motivación e inspiración en el emprendedor.
+      - icon-circle-check Generar un movimiento social que cause un impacto significativo.
+
+      {{< autor >}}
+    more:
+      align: left
+  - order: 1
+    link: '#para-que'
+    label: ¿Para qué?
+    image: el-codigo-de-la-influencia-portada.svg
+    more:
+      image_hover: el-codigo-de-la-influencia-contraportada.svg

@@ -1,0 +1,16 @@
+icon: none
+rows:
+- type: columns
+  design:
+    num: 2
+    align: left
+    align_y: center
+    uppercase: true
+    underline: true
+  items:
+  - image: para-ti.svg
+  - title: Para ti
+    description: |
+      "El Código de la Influencia" puede ser útil en estas etapas específicas, su enfoque y principios pueden ser aplicados y adaptados a lo largo de toda la trayectoria del emprendedor.
+
+      Adoptar un enfoque consciente y basado en causas desde el principio y mantenerlo a lo largo del tiempo, puede generar un impacto duradero y éxito sostenible en cualquier negocio.

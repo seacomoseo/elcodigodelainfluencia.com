@@ -1,0 +1,70 @@
+title: Diferentes Modalidades
+anchor: Modalidades
+subtitle: Como lector, alumno, puedes escoger **3 diferentes vías** de vivir este proceso, cada una con sus particularidades y potenciadores
+more:
+  align: center
+  menu: Modalidades
+rows:
+- type: columns
+  design:
+    num: 3
+    uppercase: false
+    underline: true
+    color: light
+    ofuscate: true
+    label: Más información
+    licon: none
+    ratio: circle
+  items:
+  - title: Libro
+    price: 17 €
+    link: '#adquirir-libro'
+    label: Adquirir Libro
+    icon: icon-alt
+    description: |
+      Versión ideal para los más autodidactas
+      {.subtitle}
+
+      - icon-circle-check Recibes el libro digital
+      - icon-circle-check Accedes a la comunidad de lectores de Telegram
+
+      - icon-circle-info Haz el viaje por tu cuenta
+      - icon-circle-info Descifra tú mismo/a tu CI
+    more:
+      color: white
+      ofuscate: false
+  - title: Seminario
+    price: 1.997 €
+    link: https://adelayn.com/curso-online/ci
+    icon: icon-alt
+    description: |
+      Para los que prefieren una experiencia vivencial
+      {.subtitle}
+
+      - icon-circle-check Recibes el libro digital
+      - icon-circle-check Accedes a la comunidad de lectores de Telegram
+      - icon-circle-check Acceso vitalicio e inmediato al seminario
+
+      - icon-circle-info Te acompaño en descifrar tu CI
+      - icon-circle-info 20 horas de formación específica
+      - icon-circle-info Mayor profundización de contenidos
+      - icon-circle-info Contenido que no encuentras en la obra
+    more:
+      color: light
+  - title: Mentoría + seminario
+    price: 3.997 €
+    link: https://wa.me/34634337096
+    icon: icon-alt
+    description: |
+      Para los que prefieren no dejarse detalle en el camino y hacer un trabajo fino de la mano del autor
+      {.subtitle}
+
+      - icon-circle-check Recibes el libro digital
+      - icon-circle-check Accedes a la comunidad de lectores de Telegram
+      - icon-circle-check Acceso vitalicio e inmediato al seminario
+      - icon-circle-check Acceso a 25 horas de formación específica de mentoría
+      - icon-circle-check Acceso a hacer preguntas directamente al autor a través de Telegram
+
+      - icon-circle-info Además del seminario, vivirás un proceso mentoría que te permitirá crear y/o asentar las bases de tu proyecto, recrear tu escalera de valor, aprenderás estrategias de lanzamiento, ventas, y todo desde un punto de vista consciente y alineado con tu CI
+    more:
+      color: main

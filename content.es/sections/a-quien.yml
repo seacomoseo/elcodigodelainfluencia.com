@@ -1,0 +1,23 @@
+id: a-quien
+title: ¿A quién va dirigido?
+subtitle: A una nueva generación de emprendedores que desean promover una causa e impactar positivamente en el universo
+description: Descifrar tu CI (Código de la Influencia) te facilitará significativamente el camino para conseguir lograr un impacto natural y más significativo en el mundo.
+more:
+  align: center
+  menu: A quién
+rows:
+- type: steps
+  design:
+    icon_size: 6
+    uppercase: true
+    underline: true
+  items:
+  - title: Descifra tu código de la influencia
+    description: |
+      ¿Qué tan clara tienes tu razón de ser y que tan alineada está con tu proyecto? ¿Qué tan ferviente es la conexión entre tus clientes y tu causa? ¿Qué tan recta es la dirección que has elegido en tu camino cómo emprendedor?
+  - title: Leyes del marketing x causa
+    description: |
+      ¿Cómo funciona la mente del actual y futuro consumidor? Existe una tendencia imparable que ha puesto en jaque a una multitud de profesionales y corporaciones cuyas técnicas de marketing ya no funcionan.
+  - title: Transformación del lenguaje
+    description: |
+      Si algo caracteriza y es valorado por los lectores y alumnos de "El código de la influencia" es la fuerte transformación del propio diálogo interno que los emprendedores experimentan durante la experiencia.

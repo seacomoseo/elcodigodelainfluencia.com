@@ -1,0 +1,44 @@
+title: El Código de la Influencia
+description: El Código de la Influencia es la brújula que guía al emprendedor hacia su verdadero norte, para conectar con su propósito de vida y aprender a compartir su causa con el mundo.
+logo: logo.png
+legal_name: Aymar Celdrán
+legal_dni: 48509291Z
+legal_email: aymarceldran@gmail.com
+legal_location: Murcia
+country: España
+location_type:
+- Organization
+alternate_name: []
+price_range: ''
+google_analytics: G-RGZ1KTXXBJ
+google_site_verification: ''
+google_file_verification: google7467d923cbb3eb4c.html
+disqus: ''
+cookies_legal: false
+analytics_pagespeed: true
+process_all_images: false
+cms: true
+cms_editorial_workflow: false
+development: false
+custom_code:
+  html_head:
+    code: ''
+    lang: html
+  html_body:
+    code: ''
+    lang: html
+  css:
+    code: ''
+  js:
+    code: ''
+    lang: javascript
+social:
+- link: https://www.instagram.com/aymarceldran/
+- link: https://www.facebook.com/aymarceldran/
+- link: https://www.tiktok.com/@aymarceldran
+- link: https://www.youtube.com/c/aymarceldran
+- link: https://www.linkedin.com/in/aymarceldran/
+- link: https://aymarceldran.com/
+  icon: yesalavida
+- link: https://adelayn.com/
+  icon: adelayn

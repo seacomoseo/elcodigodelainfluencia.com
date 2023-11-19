@@ -1,0 +1,22 @@
+title: ¿Qué problema resuelve?
+subtitle: Falta de claridad, propósito y aplicación
+more:
+  menu: Problema
+rows:
+- type: columns
+  design:
+    num: 2
+    align: left
+    align_y: center
+  items:
+  - description: |
+      El problema principal que resuelve "El Código de la Influencia" es la falta de claridad y dirección en la vida y carrera de los emprendedores, particularmente en lo que respecta a conectar con su propósito, valores y causas, y cómo estos elementos se integran en su proyecto o negocio.
+
+      Esta falta de claridad puede llevar a emprendedores a tomar decisiones que no están alineadas con sus verdaderos intereses y valores, lo que puede generar insatisfacción, falta de compromiso y, en última instancia, fracaso en sus proyectos.
+  - order: -1
+    image: laberinto.svg
+  - span: 2
+    description: |
+      **"El Código de la Influencia" aborda este problema al proporcionar un marco y una <i class="sign">metodología</i> que guía a los emprendedores a descubrir su razón de ser, identificar los principios que los rigen y aplicar estos elementos en sus proyectos y negocios, permitiéndoles crear un impacto significativo y duradero en el mundo.**
+    more:
+      align: center

@@ -1,0 +1,27 @@
+title: Autor
+subtitle: Aymar Celdrán, autor de la obra "El Código de la Influencia"
+description: |
+  Creador del nuevo modelo de "Marketing X Causa" y fundador de Adelayn, será quien te acompañará durante la experiencia formativa
+more:
+  align: center
+rows:
+- type: columns
+  design:
+    num: 2
+    align: left
+    align_y: center
+  items:
+  - description: |
+      Aymar Celdrán
+      {.h3 .uppercase .underline}
+
+      Natal de Murcia y de 32 años de edad.
+
+      Es considerado por muchos como uno de los referentes en España en la habilidad de despertar la grandeza del ser humano y conectar con su razón de ser.
+
+      Ha roto esquemas por su metodología aplicada, y las dinámicas y experiencias que sus alumnos viven en los procesos de transformación personal que lidera.
+
+      [btn icon-yesalavida Más](#aymar-celdran)
+    more:
+      align_xl: right
+  - image: aymar-celdran.png

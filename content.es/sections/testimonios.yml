@@ -1,0 +1,23 @@
+title: Testimonios
+subtitle: Más de 150 emprendedores ya cursaron el seminario de "El Código de la Influencia"
+description: |
+  Ellos han ayudado a corroborar y mejorar la eficacia de los principios propuestos en esta obra.
+more:
+  align: center
+rows:
+- type: columns
+  design:
+    num: 4
+  items:
+  - description: <iframe data-src="https://player.vimeo.com/video/512481096?rel=0&amp;controls=1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Testimonio 1"></iframe>
+  - description: <iframe data-src="https://player.vimeo.com/video/514293486?rel=0&amp;controls=1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Testimonio 2"></iframe>
+  - description: <iframe data-src="https://player.vimeo.com/video/514293592?rel=0&amp;controls=1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Testimonio 3"></iframe>
+  - description: <iframe data-src="https://player.vimeo.com/video/514296865?rel=0&amp;controls=1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Testimonio 4"></iframe>
+  - description: <iframe data-src="https://player.vimeo.com/video/569043362?rel=0&amp;controls=1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Testimonio 5"></iframe>
+  - description: <iframe data-src="https://player.vimeo.com/video/569043676?rel=0&amp;controls=1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Testimonio 6"></iframe>
+  - description: <iframe data-src="https://player.vimeo.com/video/664252731?h=4034dfa7b8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479?rel=0&amp;controls=1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Testimonio 7"></iframe>
+  - description: <iframe data-src="https://player.vimeo.com/video/664251756?h=2f8d03135d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479?rel=0&amp;controls=1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Testimonio 8"></iframe>
+- type: columns
+  items:
+  - description: |
+      [btn icon-plus Ver los más de 50 testimonios](/testimonios/)

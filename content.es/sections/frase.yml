@@ -1,0 +1,10 @@
+id: frase
+anchor: Un viaje simple de verdad
+icon: ''
+description: |
+  icon-quote-left
+  Un viaje <i class="sign">SIMPLE</i> de verdad
+  icon-quote-right
+  {.h1}
+more:
+  align: center
