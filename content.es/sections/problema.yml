@@ -17,6 +17,6 @@ rows:
     image: laberinto.svg
   - span: 2
     description: |
-      **"El Código de la Influencia" aborda este problema al proporcionar un marco y una <i class="sign">metodología</i> que guía a los emprendedores a descubrir su razón de ser, identificar los principios que los rigen y aplicar estos elementos en sus proyectos y negocios, permitiéndoles crear un impacto significativo y duradero en el mundo.**
+      **"El Código de la Influencia" aborda este problema al proporcionar un marco y una ==icon-sign-circle metodología== que guía a los emprendedores a descubrir su razón de ser, identificar los principios que los rigen y aplicar estos elementos en sus proyectos y negocios, permitiéndoles crear un impacto significativo y duradero en el mundo.**
     more:
       align: center

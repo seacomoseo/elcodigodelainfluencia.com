@@ -14,7 +14,7 @@ rows:
     hide_shadow: true
   items:
   - description: |
-      Como emprendedor tienes una **<i class="sign">misión</i>:** **conectar con la tuya**
+      Como emprendedor tienes una ==icon-sign-circle misión== **conectar con la tuya**
       {.h1 .uppercase}
 
       Guía para emprendedores, profesionales y empresas, en la creación de negocios conscientes que generen un impacto positivo y significativo en el mundo.

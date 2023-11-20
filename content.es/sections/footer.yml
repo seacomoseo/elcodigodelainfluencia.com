@@ -1,5 +1,3 @@
-more:
-  divider: curve-side
 description: |
   - icon-copyright      {{< internal-link index >}}
   - icon-scale-balanced {{< internal-link legal >}}

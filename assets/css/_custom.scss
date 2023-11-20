@@ -42,13 +42,6 @@
 }
 
 
-// Sign
-
-.sign {
-  {{ partial "functions/svg-to-css" (dict "path" "/assets/media/sign-circle.svg" "Site" .Site) }}
-}
-
-
 // Book 3D
 
 #body-inicio #header,
@@ -328,6 +321,9 @@
 #modalidades {
   .column .description {
     margin-top: 0;
+  }
+  .column.bg-main {
+    --main: #{ $main-dark };
   }
   // .column--item-1 .section__icon--top {
   //   animation: 108s spin infinite linear;

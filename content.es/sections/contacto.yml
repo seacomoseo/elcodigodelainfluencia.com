@@ -2,8 +2,6 @@ title: Contacto
 subtitle: Haz tu consulta
 button: link
 size: sm
-more:
-  divider: curve-side-fill
 rows:
 - type: contact
   data:
@@ -45,6 +43,3 @@ rows:
   map:
     active: false
     link: https://goo.gl/maps/HpiiVvEUvX4ZkPAk8
-    iframe: ''
-    flip_x: false
-    divider: ''
