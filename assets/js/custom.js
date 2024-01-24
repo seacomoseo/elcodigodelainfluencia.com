@@ -1,6 +1,4 @@
-
 // Book 3D rotate
-// Require scroll-shot.js
 
 const rotateElements = document.querySelectorAll('#beneficios .column--item-2 .column__content .image')
 
@@ -15,13 +13,13 @@ if (rotateElements[0]) {
   }
 
   // Toggle class rotate-scroll when element is in viewport
-  scrollShot(
-    '0%',
-    '#beneficios .column--item-2 .column__content .image',
-    undefined,
-    e => e.classList.add('rotate-scroll'),
-    e => e.classList.remove('rotate-scroll')
-  )
+  // eslint-disable-next-line
+  scrollShot({
+    rootMargin: '0%',
+    query: '#beneficios .column--item-2 .column__content .image',
+    doStart: e => e.classList.add('rotate-scroll'),
+    doEnd: e => e.classList.remove('rotate-scroll')
+  })
 
   window.addEventListener('scroll', () => {
     rotateElements.forEach(e => {
