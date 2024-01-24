@@ -1,4 +1,4 @@
-// Book 3D rotate
+import { scrollShot } from './scroll-shot.js'
 
 const rotateElements = document.querySelectorAll('#beneficios .column--item-2 .column__content .image')
 
@@ -12,8 +12,6 @@ if (rotateElements[0]) {
     if (pos < -30 && pos > -270) e.style.transform = `rotateY(${-60 - pos}deg)`
   }
 
-  // Toggle class rotate-scroll when element is in viewport
-  // eslint-disable-next-line
   scrollShot({
     rootMargin: '0%',
     query: '#beneficios .column--item-2 .column__content .image',
