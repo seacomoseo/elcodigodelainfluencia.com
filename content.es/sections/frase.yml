@@ -2,9 +2,7 @@ id: frase
 anchor: Un viaje simple de verdad
 icon: ''
 description: |
-  icon-quote-left
-  Un viaje ==icon-sign-circle SIMPLE== de verdad
-  icon-quote-right
-  {.h1}
+  > Un viaje ==icon-sign-circle SIMPLE== de verdad
+  {.quotes .h1}
 more:
   align: center

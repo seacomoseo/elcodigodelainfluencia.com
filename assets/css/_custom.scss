@@ -226,33 +226,33 @@
 
   // Header Animations
 
-  @mixin show-up($delay) {
-    animation: show-up .5s (.25s * $delay) both;
+  @mixin show-from($delay) {
+    animation: show-from .5s (.25s * $delay) both;
   }
   .description {
     .h1 {
-      @include show-up(8);
+      @include show-from(8);
     }
     p:nth-child(2) {
-      @include show-up(9);
+      @include show-from(9);
     }
     .buttons {
-      @include show-up(10);
+      @include show-from(10);
     }
   }
   .column--item-2 .button {
-    @include show-up(11);
+    @include show-from(11);
   }
   // @media (min-width: $screen-xl) {
   //   .description {
   //     .h1 {
-  //       @include show-up(0);
+  //       @include show-from(0);
   //     }
   //     p:nth-child(2) {
-  //       @include show-up(1);
+  //       @include show-from(1);
   //     }
   //     .buttons {
-  //       @include show-up(2);
+  //       @include show-from(2);
   //     }
   //   }
   // }
