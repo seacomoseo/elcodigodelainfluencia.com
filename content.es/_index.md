@@ -22,7 +22,7 @@ sections:
   - autor-mas
 - file: frase
 - file: modalidades
-  modals:
-  - adquirir-libro
+  # modals:
+  # - adquirir-libro
 - file: contacto
 ---

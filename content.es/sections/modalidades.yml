@@ -11,15 +11,16 @@ rows:
     uppercase: false
     underline: true
     color: light
+    link: https://adelayn.com/curso-online/ci
     ofuscate: true
     label: Más información
     licon: none
     ratio: circle
   items:
   - title: Libro
-    price: 17 €
-    link: '#adquirir-libro'
-    label: Adquirir Libro
+    # price: 17 €
+    # link: '#adquirir-libro'
+    # label: Adquirir Libro
     icon: icon-alt
     description: |
       Versión ideal para los más autodidactas
@@ -34,8 +35,8 @@ rows:
       color: white
       ofuscate: false
   - title: Seminario
-    price: 1.997 €
-    link: https://adelayn.com/curso-online/ci
+    # price: 1.997 €
+    # link: https://adelayn.com/curso-online/ci
     icon: icon-alt
     description: |
       Para los que prefieren una experiencia vivencial
@@ -52,8 +53,8 @@ rows:
     more:
       color: light
   - title: Mentoría + seminario
-    price: 3.997 €
-    link: https://wa.me/34634337096
+    # price: 3.997 €
+    # link: https://wa.me/34634337096
     icon: icon-alt
     description: |
       Para los que prefieren no dejarse detalle en el camino y hacer un trabajo fino de la mano del autor

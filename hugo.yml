@@ -3,14 +3,14 @@ Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: https://gitlab.com/elcodigodelainfluencia/elcodigodelainfluencia.com
+  git_url: https://github.com/seacomoseo/elcodigodelainfluencia.com
   netlify_name: elcodigodelainfluencia
   netlify_id: 4148736d-7e10-4960-8069-8d976f2a4f12
   hook: NjQyNWU2ODAxOTlkZWUwMWIzZWRkYjRh
   drive_link: https://drive.google.com/file/d/1tsp4LAXCf0oswgktPSZKvAIYkQwzbG8y
   drive_mails: aymarceldran@gmail.com, rafakroma@gmail.com
 defaultContentLanguage: es
-disableLanguages: [en]
+disableLanguages: [en,fr]
 languages:
   es:
     paginatePath: pagina
